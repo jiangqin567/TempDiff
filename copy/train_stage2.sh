@@ -1,0 +1,12 @@
+python vsr_val_ddpm_text_T_vqganfin_w_latent.py \
+  --config configs/mgldvsr/mgldvsr_512_realbasicvsr_deg.yaml \
+  --ckpt /home/jq/Real/MGLD-VSR-main/checkpoints/MGLD-VSR-Pretrained-Models/mgldvsr_unet.ckpt \
+  --vqgan_ckpt /home/jq/Real/MGLD-VSR-main/checkpoints/v2-1_512-ema-pruned.ckpt \
+  --seqs-path /home/jq/Real/MGLD-VSR-main/dataset/REDS/train_sharp_sub \
+  --outdir /home/jq/Real/MGLD-VSR-main/dataset/REDS/train_sample_sub \
+  --latent-dir /home/jq/Real/MGLD-VSR-main/dataset/REDS/train_latent_sub \
+  --ddpm_steps 50 \
+  --dec_w 1.0 \
+  --colorfix_type adain \
+  --select_idx 0 \
+  --n_gpus 1
