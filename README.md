@@ -2,15 +2,15 @@
 Visual Results Comparison: TecoGAN vs Ours
 VideoLQ dataset Sequence 007:
 
-https://github.com/user-attachments/assets/6c6d892c-e693-4e23-8ed0-d0fe73dc71ce
+https://github.com/user-attachments/assets/971511a9-5189-42a0-a144-3dda4334f9fe
 
 VideoLQ dataset Sequence 008:
 
-https://github.com/user-attachments/assets/75e42059-9e81-48c3-a714-e3fed7ab5b2e
+https://github.com/user-attachments/assets/07bf37d0-e84f-46cc-8c72-4ae0bbd1079a
 
 VideoLQ dataset Sequence 033:
 
-https://github.com/user-attachments/assets/224c2eb5-4581-4913-b096-97a54f844d6b
+https://github.com/user-attachments/assets/afecc981-19b2-4983-b6c9-447502e882ee
 
 
 ### Testing
