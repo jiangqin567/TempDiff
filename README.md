@@ -12,9 +12,6 @@ VideoLQ dataset Sequence 033:
 
 https://github.com/user-attachments/assets/224c2eb5-4581-4913-b096-97a54f844d6b
 
-Visual comparison for Color Shift: SD vs Ours
-![image](https://github.com/submition/TempDiff/blob/main/color_shift.png)
-
 
 ### Testing
 Download the pretrained diffusion denoising U-net and video variational autoencoder from [[BaiduNetDisk]()]. Download the VideoLQ dataset following the links [here](https://github.com/ckkelvinchan/RealBasicVSR). Please update the ckpt_path, load_path and dataroot_gt paths in config files. 
