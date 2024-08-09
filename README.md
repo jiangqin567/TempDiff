@@ -14,7 +14,7 @@ https://github.com/user-attachments/assets/afecc981-19b2-4983-b6c9-447502e882ee
 
 
 ### Testing
-Download the pretrained diffusion denoising U-net and video variational autoencoder from [[BaiduNetDisk]()]. Download the VideoLQ dataset following the links [here](https://github.com/ckkelvinchan/RealBasicVSR). Please update the ckpt_path, load_path and dataroot_gt paths in config files. 
+Download the pretrained diffusion denoising U-net and video variational autoencoder from [[BaiduNetDisk](https://pan.baidu.com/s/1MjdAMO-UE0A5BwMaqalpxQ) code: gji9]. Download the VideoLQ dataset following the links [here](https://github.com/ckkelvinchan/RealBasicVSR). Please update the ckpt_path, load_path and dataroot_gt paths in config files. 
 
 Test on arbitrary size with chopping for VAE.
 ```
